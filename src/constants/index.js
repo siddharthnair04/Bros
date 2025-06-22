@@ -32,33 +32,33 @@ import {
   sliders04,
 } from "../assets";
 
-import timhortons from "../assets/timhortons.svg";
-import wildandthemoon from "../assets/wildandthemoon.svg";
-import punjabgrill from "../assets/punjabgrill.svg";
-import aj from "../assets/aj.svg";
-import dayls from "../assets/dayls.svg";
-import orshana from "../assets/oshana.svg";
-import zoya from "../assets/zoya.svg";
-import m from "../assets/m.svg";
-import simplyfy from "../assets/simplyfy.svg";
-import apt from "../assets/apt.svg";
-import timeless from "../assets/timeless.svg";
-import missan from "../assets/missan.svg";
-import govt from "../assets/govt.svg";
-import jwelex from "../assets/jwelex.svg";
-import petrepblic from "../assets/petreblic.svg";
-import genesis from "../assets/genesis.svg";
-import mnv from "../assets/mnv.svg";
-import blackfox from "../assets/blackfox.svg";
-import bankai from "../assets/bankai.svg";
-import something from "../assets/something.svg";
-import bpi from "../assets/bpi.svg";
-import hyundai from "../assets/hyundai.svg";
-import tata from "../assets/tata.svg";
-import mignas from "../assets/mignas.svg";
-import rewind from "../assets/rewind.svg";
-import eos from "../assets/eos.svg";
-import alkabban from "../assets/alkabban.svg";
+// import timhortons from "../assets/timhortons.svg";
+// import wildandthemoon from "../assets/wildandthemoon.svg";
+// import punjabgrill from "../assets/punjabgrill.svg";
+// import aj from "../assets/aj.svg";
+// import dayls from "../assets/dayls.svg";
+// import orshana from "../assets/oshana.svg";
+// import zoya from "../assets/zoya.svg";
+// import m from "../assets/m.svg";
+// import simplyfy from "../assets/simplyfy.svg";
+// import apt from "../assets/apt.svg";
+// import timeless from "../assets/timeless.svg";
+// import missan from "../assets/missan.svg";
+// import govt from "../assets/govt.svg";
+// import jwelex from "../assets/jwelex.svg";
+// import petrepblic from "../assets/petreblic.svg";
+// import genesis from "../assets/genesis.svg";
+// import mnv from "../assets/mnv.svg";
+// import blackfox from "../assets/blackfox.svg";
+// import bankai from "../assets/bankai.svg";
+// import something from "../assets/something.svg";
+// import bpi from "../assets/bpi.svg";
+// import hyundai from "../assets/hyundai.svg";
+// import tata from "../assets/tata.svg";
+// import mignas from "../assets/mignas.svg";
+// import rewind from "../assets/rewind.svg";
+// import eos from "../assets/eos.svg";
+// import alkabban from "../assets/alkabban.svg";
 
 
 

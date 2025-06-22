@@ -68,10 +68,7 @@ const CompanyLogos = ({ className }) => {
         </h5>
       
       <div
-        className="relative w-full overflow-hidden"
-        style={{
-          background: "linear-gradient(90deg, #e1e1e1 0%, #808080 100%)",
-        }}>
+        className="relative w-full overflow-hidden">
         <div className="flex animate-marquee whitespace-nowrap space-x-8">
           {logos.map((logo, index) => (
             <img
